@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/WalterWang0104/RndInstallation-Sandbox/_apis/build/status/wangch0201.MSDoc-pupleline-java?branchName=master)](https://dev.azure.com/WalterWang0104/RndInstallation-Sandbox/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
