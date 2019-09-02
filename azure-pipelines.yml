@@ -10,7 +10,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- task: Maven@3
+- task: Maven@3    # see Maven task at https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/build/maven?view=azure-devops
   inputs:
     mavenPomFile: 'pom.xml'
     mavenOptions: '-Xmx3072m'
